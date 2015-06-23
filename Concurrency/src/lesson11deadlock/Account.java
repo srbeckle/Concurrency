@@ -1,7 +1,7 @@
 package lesson11deadlock;
 
 public class Account {
-	private int balance = 10_000;
+	private int balance = 20_000;
 	
 	public void deposit(int amount)
 	{
